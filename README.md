@@ -9,8 +9,8 @@
 ### Horários / Local
 
 * Horários:
-  - **Segundas (13:00-14:40)** - Lab.
-  - **Terças (13:00-14:30)** - Lab.
+  - **Segundas (13:00-14:40)** - Lab 05.
+  - **Quartas (13:00-14:40)** - Lab 05.
 
 ## Comunicação
 
@@ -26,17 +26,5 @@ A nota final será computado através da média das avaliações:
 
 * Reposição
 * Final
-
-## Bibliografia
-
-### Bibliografia Básica
-
-
-
-### Bibliografia Complementar
-
-
-
-### Links Complementares sobre Ferramentas, Frameworks e Tecnologias
 
 
