@@ -20,9 +20,9 @@ Toda a comunicação será realizada usando via email.
 
 A nota final será computado através da média das avaliações:
 
-* Avaliação I (Prova Escrita 1)
-* Avaliação II (Prova Escrita 2)
-* Avaliação III (Projeto)
+* Avaliação I (Prova Escrita 1) - 02/10
+* Avaliação II (Prova Escrita 2) - 13/11
+* Avaliação III (Projeto) - 18/12
 
 * Reposição - Artigo no Jaguaribe Tech
 * Final
