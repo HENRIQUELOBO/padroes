@@ -20,7 +20,7 @@ Toda a comunicação será realizada usando via email.
 
 A nota final será computado através da média das avaliações:
 
-* Avaliação I (Prova Escrita 1) - 02/10
+* Avaliação I (Prova Escrita 1) - 04/10
 * Avaliação II (Prova Escrita 2) - 13/11
 * Avaliação III (Projeto) - 18/12
 
