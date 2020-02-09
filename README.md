@@ -9,20 +9,21 @@
 ### Horários / Local
 
 * Horários:
-  - **Quartas (16:40-18:20)** - Lab 05.
-  - **Sextas (13:00-14:40)** - Lab 05.
+  - **Quartas (13:00-14:40)** - Lab 01.
+  - **Sextas (13:00-14:40)** - Lab 01.
 
 ## Comunicação
 
 Toda a comunicação será realizada usando via email.
+Classroom
 
 ## Avaliações
 
 A nota final será computado através da média das avaliações:
 
-* Avaliação I (Prova Escrita 1) - 04/10
-* Avaliação II (Prova Escrita 2) - 13/11
-* Avaliação III (Projeto) - 18/12
+* Avaliação I (Prova Escrita 1)
+* Avaliação II (Prova Escrita 2)
+* Avaliação III (Projeto) - não pode repor
 
 * Reposição - Artigo no Jaguaribe Tech
 * Final
