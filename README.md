@@ -21,8 +21,8 @@ Classroom
 
 A nota final será computado através da média das avaliações:
 
-* Avaliação I (Prova Escrita 1)
-* Avaliação II (Prova Escrita 2)
+* Avaliação I (Prova Escrita 1) - 27/03
+* Avaliação II (Prova Escrita 2) - 24/04
 * Avaliação III (Projeto) - não pode repor
 
 * Reposição - Artigo no Jaguaribe Tech
